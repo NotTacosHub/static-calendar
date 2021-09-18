@@ -1,0 +1,45 @@
+.body {
+    background-color: #A2B378;
+}
+
+.container {
+   margin: 200px;
+   background-color: #A2B378;
+    
+}
+.across {
+    background-color: slategray;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.second-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.third-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fourth-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fifth-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
