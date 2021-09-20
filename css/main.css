@@ -44,7 +44,7 @@ html, body {
     flex-shrink: 1;
     flex-basis: 0;
     border: 1px solid wheat;
-    height: 50px;
+    height: 75px;
     color: wheat;
     padding: 5px;
 }
