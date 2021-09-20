@@ -5,7 +5,6 @@ html, body {
     width: 100%;
 }
 
-
 .body {
     background-color: #A2B378;
 }
@@ -53,4 +52,4 @@ html, body {
 .col:hover {
     background-color: #2F394D;
     color: #BCAB79;
-} 
+}
